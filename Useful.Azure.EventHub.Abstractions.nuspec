@@ -6,7 +6,7 @@
     <authors>$author$</authors>
     <owners>$owners$</owners>
     <license type="file">LICENSE.txt</license>    
-    <projectUrl>https://github.com/Tazmainiandevil/Useful.EventHub.Abstractions</projectUrl>
+    <projectUrl>https://github.com/Tazmainiandevil/Useful.Azure.EventHub.Abstractions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <tags>tazmainiandevil Useful.EventHub.Abstractions useful EventHub Azure IEventHubManager Service</tags>
